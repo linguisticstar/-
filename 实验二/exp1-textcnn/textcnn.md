@@ -328,3 +328,4 @@ sequences = sequences.to(device)  # 数据移到GPU
 1. `exp01-textcnn/saved_models/` - 保存的模型
 2. `exp01-textcnn/logs/` - 日志和图表
 3. `datasets/fixed/` - 修复后的CSV文件
+
